@@ -64,20 +64,8 @@ vite는 기본 ESM를 통해 HMR API를 제공합니다. HMR 기능이 있는 �
 
 vite는 .ts 파일에 대한 컴파일링 및 Import 역시 지원합니다.
 
-
-
-
-## config
-vite.config.js
-```jsx
-export default {
-  
-}
-```
-
 --config CLI 옵션을 사용하여 명시적으로 특정 설정 파일을 지정할 수도 있습니다. (경로는 cwd를 기준으로 하여 상대적으로 처리됩니다.)
 ```shell
 vite --config my-config.js
 ```
-
 
