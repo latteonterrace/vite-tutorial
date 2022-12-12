@@ -1,4 +1,4 @@
-# Node.js 모듈 사용하기
+# JavaScript 프로젝트 생성하기
 
 ## 프로젝트 만들기
 ```shell
