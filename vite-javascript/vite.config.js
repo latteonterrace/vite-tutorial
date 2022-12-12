@@ -22,7 +22,7 @@ export default defineConfig({
     // name은 전역변수로 노출된다. 
     name: 'mylibrary',
     // formats: ['es', 'iife'],  // ('es' | 'cjs' | 'umd' | 'iife')
-    formats: ['umd'],  // ('es' | 'cjs' | 'umd' | 'iife')
+    formats: ['umd', 'es', 'cjs'],  // ('es' | 'cjs' | 'umd' | 'iife')
     // javascript 파일 이름, 디폴트는 package.json의 name
     fileName: 'my-lib'  // 파일이름 
   },    

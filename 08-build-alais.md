@@ -1,7 +1,5 @@
-# Svelte + Vite
+# alias 설정
 
-
-## alias 설정
 root 경로 설정하기 위해서 alais를 설정합니다. 
 ```jsx
 import { defineConfig } from 'vite'
